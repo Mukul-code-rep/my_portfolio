@@ -27,15 +27,15 @@ const skillsInfo = [
       'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg',
   },
   {
+    skillName: 'Solidity',
+    imgLink: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
+  },
+  {
     skillName: 'CSS',
     imgLink:
       'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg',
   },
-  {
-    skillName: 'HTML',
-    imgLink:
-      'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg',
-  },
+
   {
     skillName: 'BASH',
     imgLink:
@@ -51,30 +51,32 @@ const skillsInfo = [
     imgLink:
       'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg',
   },
+
   {
-    skillName: 'NextJS',
-    imgLink:
-      'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg',
+    skillName: "Flask",
+    imgLink: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+  },
+  {skillName: "SQl Alchemy",
+  imgLink: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"},
+  {
+    skillName: "Bootstrap",
+    imgLink: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
   },
   {
-    skillName: 'Docker',
-    imgLink:
-      'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg',
+    skillName: "Jira",
+    imgLink: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
   },
-  {
-    skillName: 'Redux',
-    imgLink:
-      'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg',
-  },
+  {skillName: "LATEX",
+imgLink:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"},
   {
     skillName: 'GIT',
     imgLink:
       'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg',
   },
+
   {
-    skillName: 'DigitalOcean',
-    imgLink:
-      'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg',
+    skillName: "JetBrains",
+    imgLink: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
   },
   {
     skillName: 'VSCode',

@@ -25,8 +25,8 @@ const Contact = () => {
                 />
               </div>
               <div>
-                <h2 className="py-2">Nishan Thapa</h2>
-                <p>Full Stack Engineer</p>
+                <h2 className="py-2">Mukul Periwal</h2>
+                <p>Software Engineer</p>
                 <p className="py-4">
                   I am available for freelance or full-time positions. Contact
                   me and let&apos;s talk.
@@ -39,7 +39,7 @@ const Contact = () => {
                 <p className="uppercase pt-8">Connect With Me</p>
                 <div className="flex items-center justify-between py-4">
                   <a
-                    href="https://www.linkedin.com/in/nishan-thapa0x01/"
+                    href="https://www.linkedin.com/in/mukul-p-943532159/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -48,7 +48,7 @@ const Contact = () => {
                     </div>
                   </a>
                   <a
-                    href="https://github.com/nishanprime"
+                    href="https://github.com/Mukul-code-rep"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -76,7 +76,7 @@ const Contact = () => {
           <div className="col-span-3 w-full h-auto shadow-xl shadow-gray-400 rounded-xl lg:p-4">
             <div className="p-4">
               <form
-                action="https://getform.io/f/93a4f305-5626-472a-a43e-2bf8654289df"
+                action="https://getform.io/f/6cd390c9-a3a5-45ca-8ee0-5380430f3fc5"
                 method="POST"
                 encType="multipart/form-data"
               >

@@ -10,24 +10,25 @@ const About = () => {
             About
           </p>
           <h2 className="sm:text-center mb-5 md:py-4">Who I am</h2>
-          <p className="sm:text-center mb-5 md:py-2 text-gray-600">
-            I am CS major and Finance Minor at Drexel University, graduating in
-            2025. I am also one of the 12 recipients worldwide to receive{' '}
-            <span className="!text-red-500 !font-bold">
-              Drexel Global Scholarship
-            </span>
-            , full ride scholarship to study at Drexel University. I am a Full
-            Stack Engineer with a passion for building web applications and
-            mobile application.
+          <p className="sm:text-center md:text-left mb-5 py-2  text-gray-600">
+            I am a <span className="font-bold text-red-500">Physics major with minors in CS and Math</span> at Drexel University, graduating
+            in 2025, also one of the two recipients of <span className="font-bold text-red-500">Larson Endowed Scholarship</span> (awarded based
+            on exceptional academic excellence and experimental science research contribution).
+            Moreover, I am also one of the recipients of <span className="font-bold text-red-500">Dean’s List</span> (recognizes prolonged maintained
+            academic excellence).
           </p>
-          <p className="sm:text-center mb-5 md:py-2 text-gray-600">
-            I started my programming journey since I was 14 years old, in 2014.
-            I dived deep into full stack application development since 2019,
-            getting my hands on multiple programming languages, databases, and
-            different development stacks. I worked as Full Stack developer at WP
-            Agency to build web applications on ReactJS and NodeJS. I am
-            currently working on a personal project called EventSimplify (demo
-            link in project section).
+          <p className="sm:text-center md:text-left mb-5 py-2  text-gray-600">
+            I started my programming journey in the summer of the freshmen year, self-learning from online forums and videos.
+            I invested my time on computing topics like data structures, data science, web development. To further my knowledge
+            in this field, I accepted <span className="font-bold text-red-500">Teaching Assistant</span> position in the computer science department
+            of the university where I helped hundreds of students to grasp the basic concepts of programming and much more.
+          </p>
+          <p className="sm:text-center md:text-left mb-5 py-2  text-gray-600">
+            My most recent experience come with my <span className="font-bold text-red-500">full time, 6-month, internship at Genesis Global Trading as
+            a Blockchain Research Engineer</span>. As someone who adores doing research, this job gave me opportunity
+            to combine my CS skills with my passion in research. In my 6 month period, I, along with my team,
+            built a software to facilitate transaction on various cryptocurrencies, which not only made me adept in the field
+            of blockchain but helped me foster my programming architecture skills to a whole new level.
           </p>
           <Link href="/#projects">
             <p className="sm:text-center mb-5 md:py-2 text-gray-600 underline cursor-pointer">
@@ -36,7 +37,7 @@ const About = () => {
           </Link>
         </div>
         <div className="sm:hidden md:block w-full h-auto m-auto shadow-xl  shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-          <img src="assets/about.jpg" className="rounded-xl" alt="/" />
+          <img src="assets/about.png" className="rounded-xl" alt="/" />
         </div>
       </div>
     </div>

@@ -21,16 +21,15 @@ const Main = () => {
             LET&#39;S BUILD SOMETHING TOGETHER
           </p>
           <h1 className="py-4 text-gray-700">
-            Hi, I&#39;m <span className="text-[#5651e5]"> Nishan</span>
+            Hi, I&#39;m <span className="text-[#5651e5]"> Mukul</span>
           </h1>
-          <h1 className="py-2 text-gray-700">A FullStack Engineer</h1>
+          <h1 className="py-2 text-gray-700">A Software Engineer</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I specialize in building full stack applications: mobile and web
-            apps
+            I am interested in keeping myself updated with mainstream technology and have immense interest in blockchain engineering specifically.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
-              href="https://www.linkedin.com/in/nishan-thapa0x01/"
+              href="https://www.linkedin.com/in/mukul-p-943532159/"
               target="_blank"
               rel="noreferrer"
             >
@@ -39,7 +38,7 @@ const Main = () => {
               </div>
             </a>
             <a
-              href="https://github.com/nishanprime"
+              href="https://github.com/Mukul-code-rep"
               target="_blank"
               rel="noreferrer"
             >
