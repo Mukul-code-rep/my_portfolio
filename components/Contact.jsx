@@ -32,7 +32,7 @@ const Contact = () => {
                   me and let&apos;s talk.
                 </p>
                 <p className="!text-red-400 !font-bold">
-                  Note: Looking for COOP Position for Spring/Summer 2022
+                  Note: Looking for COOP Position for Spring/Summer 2024
                 </p>
               </div>
               <div>

@@ -25,7 +25,7 @@ const Main = () => {
           </h1>
           <h1 className="py-2 text-gray-700">A Software Engineer</h1>
           <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">
-            I am interested in keeping myself updated with mainstream technology and have immense interest in blockchain engineering specifically.
+            I am interested in keeping myself updated with mainstream technology and have immense interest in blockchain engineering and machine learning specifically.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a
@@ -59,7 +59,7 @@ const Main = () => {
               </Link>
             </div>
             <div className="md:hidden">
-              <a href="assets/nishan-thapa-resume.pdf" target={'_blank'}>
+              <a href="assets/mukul-periwal-resume.pdf" target={'_blank'}>
                 <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                   <BsFillPersonLinesFill />
                 </div>
@@ -70,7 +70,7 @@ const Main = () => {
         <div className="hidden lg:block justify-right p-8 shadow-xl shadow-gray-500 border-8 rounded-xl hover:scale-110 ease-in duration-300">
           <img
             src="assets/user_pp.png"
-            alt="nishan thapa picture"
+            alt="mukul periwal picture"
             width={300}
           />
         </div>

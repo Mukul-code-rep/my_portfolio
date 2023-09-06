@@ -24,11 +24,17 @@ const About = () => {
             of the university where I helped hundreds of students to grasp the basic concepts of programming and much more.
           </p>
           <p className="sm:text-center md:text-left mb-5 py-2  text-gray-600">
-            My most recent experience come with my <span className="font-bold text-red-500">full time, 6-month, internship at Genesis Global Trading as
+            My first internship experience comes with my <span className="font-bold text-red-500">full time, 6-month, internship at Genesis Global Trading as
             a Blockchain Research Engineer</span>. As someone who adores doing research, this job gave me opportunity
             to combine my CS skills with my passion in research. In my 6 month period, I, along with my team,
             built a software to facilitate transaction on various cryptocurrencies, which not only made me adept in the field
             of blockchain but helped me foster my programming architecture skills to a whole new level.
+          </p>
+          <p className="sm:text-center md:text-left mb-5 py-2  text-gray-600">
+            My most recent experience was <span className="font-bold text-red-500">6-month long, full-time internship as a Data Scientist
+            at Resolution Life US</span>. During this internship, I refined my Data Scientist skills within a collaborative team,
+            automating settlement creation using AWS raw data. My responsibilities encompassed crafting SQL queries, Python script
+            development for settlement creation, and conducting rigorous testing to ensure seamless production deployment.
           </p>
           <Link href="/#projects">
             <p className="sm:text-center mb-5 md:py-2 text-gray-600 underline cursor-pointer">

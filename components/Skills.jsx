@@ -22,6 +22,16 @@ const skillsInfo = [
       'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
   },
   {
+    skillName: 'AWS',
+    imgLink:
+      'https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg',
+  },
+  {
+    skillName: 'MySQL',
+    imgLink:
+      'https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg',
+  },
+  {
     skillName: 'C',
     imgLink:
       'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg',
@@ -68,6 +78,10 @@ const skillsInfo = [
   },
   {skillName: "LATEX",
 imgLink:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"},
+  {
+    skillName: 'Markdown',
+    imgLink: 'https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg',
+  },
   {
     skillName: 'GIT',
     imgLink:

@@ -38,7 +38,7 @@ const Navbar = () => {
         <Link href="/">
           <a>
             <img
-              src="assets/logoNishan.png"
+              src="assets/logoMukul.png"
               alt="/"
               height={70}
               width={80}
@@ -98,7 +98,7 @@ const Navbar = () => {
               <Link href="/">
                 <a>
                   <img
-                    src="assets/logoNishan.png"
+                    src="assets/logoMukul.png"
                     height={70}
                     width={80}
                     alt="/"
@@ -142,7 +142,7 @@ const Navbar = () => {
               </Link>
               <a
                 className="md:hidden"
-                href="assets/nishan-thapa-resume.pdf"
+                href="assets/mukul-periwal-resume.pdf"
                 target={'_blank'}
               >
                 <li onClick={() => setNav(false)} className="py-4 text-sm">
