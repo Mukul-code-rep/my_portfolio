@@ -32,8 +32,8 @@ const About = () => {
           </p>
           <p className="sm:text-center md:text-left mb-5 py-2  text-gray-600">
             My most recent experience was <span className="font-bold text-red-500">6-month long, full-time internship as a Data Scientist
-            at Resolution Life US</span>. During this internship, I refined my Data Scientist skills within a collaborative team,
-            automating settlement creation using AWS raw data. My responsibilities encompassed crafting SQL queries, Python script
+            at Resolution Life US</span>. During this internship, I refined my Data Science skills within a collaborative team,
+            automating settlement creation using raw data uploaded in AWS. My responsibilities encompassed crafting SQL queries, Python script
             development for settlement creation, and conducting rigorous testing to ensure seamless production deployment.
           </p>
           <Link href="/#projects">
